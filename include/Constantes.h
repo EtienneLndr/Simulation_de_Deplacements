@@ -1,0 +1,10 @@
+#ifndef CONSTANTES_H
+#define CONSTANTES_H
+
+
+int WIDTH_OF_WINDOW  = 600;
+int HEIGHT_OF_WINDOW = 600;
+int NUMBER_OF_STEP   = 25;
+
+
+#endif
